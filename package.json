@@ -47,7 +47,7 @@
     "css-loader": "^3.4.2",
     "debug": "^4.1.1",
     "dotenv": "^8.2.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "koa": "^2.8.1",
     "koa-bodyparser": "^4.3.0",
     "koa-methodoverride": "^2.0.0",
